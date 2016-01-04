@@ -13,7 +13,7 @@
 <script>
     $(function) () {
         _500px.init({
-            sdk_key: 'Put Your SDK Here'
+            sdk_key: 'd34ee00f04f3d2fad5cb6d311003f5c912cf1341'
         });
 
         /*JQuery to Determine Login Status*/
